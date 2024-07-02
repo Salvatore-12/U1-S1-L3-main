@@ -1,7 +1,7 @@
 body{text-align: center;
     margin: 0,auto;}
     .coloreDiSfondo{
-        color: burlywood;
+        background-color: burlywood;
     }
 .logo{
     max-width: 200%;
