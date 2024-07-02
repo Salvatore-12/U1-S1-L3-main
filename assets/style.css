@@ -1,0 +1,52 @@
+body{text-align: center;
+    margin: 0,auto;}
+.logo{
+    max-width: 200%;
+    text-align: center;
+ 
+}
+
+.sottotitolo{
+background-color: rgba(252, 252, 211, 0.734);
+min-height: 50px;
+margin: auto;
+
+
+}
+
+.container{text-align: center;
+    margin: 0,auto;
+
+}
+
+#focaccia{
+    border-radius: 1.1em;
+}
+.img-sally-vegas{
+color: rgb(167, 167, 167);
+}
+.link1{
+text-align:start;
+margin-left: 24%;
+}
+.link1>p{
+color: red;
+}
+
+
+main{text-align: left;
+    margin-top: 10%;
+    margin-left: 22%;}
+
+.ingredients{
+  margin-top: -8%;  
+margin-bottom: 5%;
+}
+
+.method{
+text-align: center;
+}
+.piede-di-pagina{
+text-align: left;
+margin-left: 18%;
+}
