@@ -42,8 +42,14 @@ color: rgb(167, 167, 167);
 text-align:start;
 margin-left: 24%;
 }
+
 .link1>p{
 color: red;
+}
+
+.link1>a{
+    text-decoration: none;
+    color: blue;
 }
 
 
