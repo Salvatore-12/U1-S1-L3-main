@@ -1,8 +1,11 @@
 body{text-align: center;
     margin: 0,auto;}
-    .coloreDiSfondo{
+
+.coloreDiSfondo{
         background-color: burlywood;
-    }
+
+}
+
 .logo{
     max-width: 200%;
     text-align: center;
@@ -36,7 +39,7 @@ min-height: 50px;
     font: bold;
 }
 .img-sally-vegas{
-color: rgb(167, 167, 167);
+color: rgb(0, 0, 0);
 }
 .link1{
 text-align:start;
