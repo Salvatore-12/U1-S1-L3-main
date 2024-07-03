@@ -35,8 +35,10 @@ min-height: 50px;
     border-radius: 1.1em;
 }
 .carino{
-    color: aqua;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
     font: bold;
+    
 }
 .img-sally-vegas{
 color: rgb(0, 0, 0);
