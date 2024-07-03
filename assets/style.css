@@ -12,9 +12,14 @@ body{text-align: center;
 .sottotitolo{
 background-color: rgba(252, 252, 211, 0.734);
 min-height: 50px;
-margin: auto;
 
 
+}
+
+.sottotitolo>p{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
 }
 
 .container{text-align: center;
